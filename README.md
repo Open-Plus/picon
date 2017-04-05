@@ -1,5 +1,6 @@
 # picon
-PICON FOR OPENPLUSHD
+-PICON FOR OPENPLUSHD
+# picon MiquelCamps recomended for skin OpenplusHD
 ----------------------------
 Colocar preview formato PNG
 Fondo transparente
